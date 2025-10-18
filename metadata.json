@@ -1,0 +1,7 @@
+{
+  "name": "TalentGraph AI Recruitment Platform",
+  "description": "An AI-powered recruitment platform that analyzes resumes, conducts automated chat interviews, and provides detailed feedback and ratings for candidates.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
